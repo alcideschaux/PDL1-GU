@@ -1,6 +1,6 @@
 # PDL1-GU
 - [Descriptive analysis](https://github.com/alcideschaux/PDL1-GU/blob/master/DESCRIPTIVE.ipynb)
-- [Association analysis](https://github.com/alcideschaux/PDL1-GU/blob/master/ASSOCIATION.ipynb): Chi^2^ test, Mann-Whitney U test, Kruskal-Wallis test
+- [Association analysis](https://github.com/alcideschaux/PDL1-GU/blob/master/ASSOCIATION.ipynb): Chi-squared test, Mann-Whitney U test, Kruskal-Wallis test
 - [Outcome analysis](https://github.com/alcideschaux/PDL1-GU/blob/master/OUTCOME.ipynb): Odds ratios, risk ratios
 - [Survival analysis](https://github.com/alcideschaux/PDL1-GU/blob/master/SURVIVAL.ipynb): Survival curves (Kaplan-Meier), log-rank test
 
