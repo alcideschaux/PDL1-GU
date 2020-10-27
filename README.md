@@ -1,6 +1,6 @@
 # PDL1 levels in urothelial carcinomas
 - [Descriptive analysis](https://github.com/alcideschaux/PDL1-GU/blob/master/01-DESCRIPTIVE.ipynb)
-- [Association analysis](https://github.com/alcideschaux/PDL1-GU/blob/master/02-ASSOCIATION.ipynb): $chi^2$ test, Kruskal-Wallis test
+- [Association analysis](https://github.com/alcideschaux/PDL1-GU/blob/master/02-ASSOCIATION.ipynb): chi-square test, Mann-Whitney U test, Kruskal-Wallis test
 - [Survival analysis](https://github.com/alcideschaux/PDL1-GU/blob/master/03-SURVIVAL.ipynb): Survival curves (Kaplan-Meier), log-rank test
 
 ## USCAP 2021
